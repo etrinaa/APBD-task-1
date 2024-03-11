@@ -7,4 +7,9 @@
         Console.WriteLine("<3");
         
     }
+
+    public static void CalculateAvg(int[] arr)
+    {
+        
+    }
 }
