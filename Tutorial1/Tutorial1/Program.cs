@@ -4,5 +4,6 @@
     {
         Console.WriteLine(":)");
         string s = ":(";
+        Console.WriteLine("<3");
     }
 }
